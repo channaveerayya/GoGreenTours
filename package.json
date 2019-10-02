@@ -1,0 +1,22 @@
+{
+  "name": "gogreentours",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/channaveerayya/GoGreenTours.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/channaveerayya/GoGreenTours/issues"
+  },
+  "homepage": "https://github.com/channaveerayya/GoGreenTours#readme",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  }
+}
